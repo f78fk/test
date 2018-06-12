@@ -7,3 +7,7 @@ int main(void)
 	return 0;
 }
 
+void myfun(void)
+{
+	printf("hah");
+}
