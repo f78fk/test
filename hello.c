@@ -11,3 +11,9 @@ void myfun(void)
 {
 	printf("hah");
 }
+
+
+void test_printf(char * buff);
+{
+	printf("%s\n",buff);
+}
