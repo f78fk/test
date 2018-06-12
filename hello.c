@@ -17,3 +17,14 @@ void test_printf(char * buff);
 {
 	printf("%s\n",buff);
 }
+
+
+void hello (void)
+{
+	;
+}
+
+void test1(void)
+{
+	;
+}
